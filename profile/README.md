@@ -3,4 +3,5 @@
 ## 11-22 September 2023 Hackweek: 
 
 * [Hackbook with tutorials](https://hackweek-itcoocean.github.io/2023-Hackbook/)
-* [Discussions]()
+* [Discussions](https://github.com/Hackweek-ITCOocean/2023-Participants/discussions)
+* [ITCOocean JupyterHub](https://itcoocean.2i2c.cloud/)
