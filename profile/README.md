@@ -2,4 +2,7 @@
 
 ## Welcome!
 
-## 11-22 September 2023 Hackweek: [Machine Learning based Species Distribution Modelling](https://hackweek-itcoocean.github.io/2023-Hackbook/)
+## 11-22 September 2023 Hackweek: 
+
+* [Hackbook with tutorials](https://hackweek-itcoocean.github.io/2023-Hackbook/)
+* [Discussions]()
